@@ -7,12 +7,16 @@ Este é um projeto em que o usuário responde a um quiz com tema de sobrevivênc
 Python 3.8.10
 
 ## Bibliotecas
-random;
-picture2;
-time
+random (padrão, não precisa de instalação) ;
+picture2 (necessário instalação) ;
+time (padrão, não precisa de instalação);
 
 ## Material
 Versão 3.8.10 do Python;
-Dispositivo de câmera para computadores
+Dispositivo webcam.
 
 ## Como rodar
+1. Instale o arquivo main.py
+2. Instale as bibliotecas pendentes
+3. Conecte o dispoitivo webcam em seu computador
+4. Execute o programa 'main.py'
