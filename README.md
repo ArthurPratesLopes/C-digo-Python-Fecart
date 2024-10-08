@@ -11,7 +11,8 @@ random (padrão, não precisa de instalação); picture2 (necessário instalaç�
 
 ## Material
 Versão 3.8.10 do Python;
-Dispositivo webcam.
+Dispositivo webcam;
+Placas e/ou outros tipos de materiais que mostrem as letras: A, B, C e D  separadas.
 
 ## Como rodar
 1. Instale o arquivo 'main.py'
