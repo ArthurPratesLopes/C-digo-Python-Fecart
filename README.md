@@ -14,7 +14,7 @@ Versão 3.8.10 do Python;
 Dispositivo webcam.
 
 ## Como rodar
-1. Instale o arquivo main.py
+1. Instale o arquivo 'main.py'
 2. Instale as bibliotecas pendentes
 3. Conecte o dispoitivo webcam em seu computador
 4. Execute o programa 'main.py'
