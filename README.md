@@ -15,7 +15,7 @@ Dispositivo webcam;
 Placas e/ou outros tipos de materiais que mostrem as letras: A, B, C e D  separadas.
 
 ## Como rodar
-1. Instale o arquivo 'main.py'
+1. Instale o arquivo 'main.py' e o arquivo 'picture2.py'
 2. Instale as bibliotecas pendentes
 3. Conecte o dispoitivo webcam em seu computador
 4. Execute o programa 'main.py'
